@@ -1,0 +1,3 @@
+/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/obj/iPhone/Debug/mtouch-cache/Link/XamarinSingleView.exe
+/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
