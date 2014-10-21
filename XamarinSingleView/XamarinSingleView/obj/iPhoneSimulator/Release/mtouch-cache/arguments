@@ -1,14 +1,14 @@
-# Version: 8.2.0.207 (3bf072d)
-# [first argument, ignore] # /Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/8.2.0.207/bin/mtouch \
+# Version: 8.4.0.14 (1d464a1)
+# [first argument, ignore] # /Users/nguyencaocuong/Documents/ITD/Xamarin/Test-Jenkins/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.14/bin/mtouch \
 	-sdkroot \
 	/Applications/Xcode.app/Contents/Developer \
 	--cache \
-	/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/obj/iPhoneSimulator/Release/mtouch-cache \
+	/Users/nguyencaocuong/Documents/ITD/Xamarin/Test-Jenkins/XamarinSingleView/XamarinSingleView/obj/iPhoneSimulator/Release/mtouch-cache \
 	--nomanifest \
 	--nosign \
 	-sim \
-	/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/XamarinSingleView.app \
+	/Users/nguyencaocuong/Documents/ITD/Xamarin/Test-Jenkins/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/XamarinSingleView.app \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
 	-r \
@@ -23,4 +23,4 @@
 	-targetver \
 	7.0 \
 	--abi=i386 \
-	/Users/nguyencaocuong/Documents/ITD/Xamarin/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/XamarinSingleView.exe \
+	/Users/nguyencaocuong/Documents/ITD/Xamarin/Test-Jenkins/XamarinSingleView/XamarinSingleView/bin/iPhoneSimulator/Release/XamarinSingleView.exe \
